@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">CoronaTracker</string>
+    <string name="state_ut">STATE/UT</string>
+    <string name="cnfmd">CNFMD</string>
+    <string name="actv">ACTV</string>
+    <string name="rcvrd">RCVRD</string>
+    <string name="dcsd">DCSD</string>
+    <string name="oops">OOPS !No Internet</string>
+    <string name="try_again">Try Again</string>
+    <string name="last_updated">Last Updated</string>
+    <string name="confirmed">Confirmed</string>
+    <string name="active">Active</string>
+    <string name="recovered">Recovered</string>
+    <string name="deceased">Deceased</string>
+</resources>
